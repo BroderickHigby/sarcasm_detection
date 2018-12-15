@@ -1,7 +1,6 @@
 ## Sarcasm Detection
 
 Broderick Higby and Jonathan Wells
-Our other two partners Sakshsam and Sunny didn't help in any meaningful way and _shoulud not_ be included in the final grade
 ## Usage
 The main file is: 
 Sarcasm Detection Using CNN-LSTM-DNN.ipynb
